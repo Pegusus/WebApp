@@ -1,8 +1,9 @@
 .jumbotron.history {
-    background-color: antiquewhite;
+    background-color: #be79df;
+    
 }
 .footer.history {
-     background-color: antiquewhite;
+     background-color: #be79df;
    
 }
 .ourAddress {
@@ -10,4 +11,7 @@
 }
 .links {
     margin-top: 10px;
+}
+.container.column {
+    background-color: aliceblue;
 }
