@@ -1,17 +1,22 @@
 
 .jumbotron.history {
-    background-color: #be79df;
+    background-color: #7f78d2;
+    
     
 }
 .footer.history {
-     background-color: #be79df;
+     background-color: #7f78d2;
    
 }
-.ourAddress {
+.footer.row {
     margin-top: 10px;
 }
+
+.ourAddress {
+    margin-top: 20px;
+}
 .links {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .column {
