@@ -31,3 +31,11 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+.card-top {
+    background-color: orange;
+    text-align: center;
+   
+}
+#ReserveTable {
+    color: aliceblue;
+}
