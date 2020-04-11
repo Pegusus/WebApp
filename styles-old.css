@@ -1,0 +1,65 @@
+
+.jumbotron.history {
+    background-color: #7f78d2;
+    
+    
+}
+.footer.history {
+     background-color: #7f78d2;
+   
+}
+.footer.row {
+    margin-top: 10px;
+}
+
+.ourAddress {
+    margin-top: 20px;
+}
+.links {
+    margin-top: 20px;
+}
+
+.column {
+    color: white;
+}
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
+.card-top {
+    background-color: orange;
+    text-align: center;
+    color: aliceblue;
+   
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background: #512DA8;
+    
+}
+.carousel-item {
+    height: 300px;
+}
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
